@@ -5,4 +5,4 @@ function bunnyEars(bunnies) {
     return 2 + bunnyEars(bunnies-1);
 }
 
-console.log(bunnyEars(4))
+console.log(bunnyEars(6))
