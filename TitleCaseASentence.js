@@ -9,5 +9,4 @@ function titleCase(str) {
     return newStr;
 }
 
-console.log(titleCase("sHoRt AnD sToUt") + ".");
-// console.log(titleCase("HERE IS MY HANDLE AND HERE IS MY SPOUT"));
+console.log(titleCase("sHoRt AnD sToUt") + "."); // returns "Short and Stout."
