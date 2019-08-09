@@ -10,3 +10,4 @@ function booWho(bool) {
 
 console.log(booWho(null));
 console.log(booWho(false));
+console.log(booWho(false));
