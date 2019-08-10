@@ -6,4 +6,4 @@ function repeatStringNumTimes(str, num) {
     return str;
 }
 
-console.log(repeatStringNumTimes("abc", 3));
+console.log(repeatStringNumTimes("abc", 3)); // returns "abcabcabc"

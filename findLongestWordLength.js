@@ -9,4 +9,4 @@ function findLongestWordLength(str) {
     return wordlength;
 }
 
-console.log(findLongestWordLength("The quick brown fox jumped over the lazy dog"));
+console.log(findLongestWordLength("The quick brown fox jumped over the lazy dog")); // returns 6

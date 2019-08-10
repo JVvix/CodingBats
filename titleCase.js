@@ -9,4 +9,4 @@ function titleCase(str) {
     return newStr;
 }
 
-console.log(titleCase("I'm a little tea pot") + ".");
+console.log(titleCase("I'm a little tea pot") + "."); // returns "I'm A Little Tea Pot."
