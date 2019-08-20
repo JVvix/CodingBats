@@ -3,11 +3,11 @@ function destroyer(arr) {
         for(let j = 1; j < arguments.length; j++) {
             if(arr[i] === arguments[j]) {
                arr.splice(i,1);
-                i--;
+               i--;
             }
         }
     }
     return arr;
 }
 
-console.log(destroyer([1, 2, 3, 1, 2, 3], 2, 3)); //should be [1,1]
+console.log(destroyer([1, 2, 3, 4, 1, 2, 3], 2, 3, 1)); //should be [1,1]
