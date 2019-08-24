@@ -1,6 +1,6 @@
 function arg(s) {
     console.log(`s: ${s}`);
-    console.log(`first: ${arguments[0]}`);
+
     console.log(`2nd:   ${arguments[1]}` );
     console.log(`length:   ${arguments.length}` );
     for(let i = 0; i< arguments.length; i++) {
