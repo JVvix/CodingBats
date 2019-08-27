@@ -9,3 +9,4 @@ function bouncer(arr) {
 }
 
 bouncer([7, "ate", "", false, 9]); // returns [7,"ate",9];
+// bouncer([7, "ok", "2d", false, 9]); // returns [7,"ate",9];
