@@ -16,5 +16,4 @@ function spinalCase(str) {
 // console.log(spinalCase('thisIsATest'));
 console.log(spinalCase('this Is space seperated'));
 console.log(spinalCase('thisIsCamelCase'));
-
 //newStr = newStr.replace(/[-]/g, "")
